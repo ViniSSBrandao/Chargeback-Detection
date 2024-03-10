@@ -25,7 +25,7 @@ This section comprehensively explains chargebacks, their significance in combati
 ## 3. Understand the Industry
 In this section, we delve into the intricate dynamics of the payment industry, focusing primarily on card payment methods. The explanation is carefully structured, details the roles of key players such as cardholders, merchants, payment gateways, payment processors, acquiring banks, and issuing banks. Moreover, it elucidates how fees are incurred at various stages of the transaction process.
 
-## 4. Main Differences and Roles
+## 4.Players
 Here, we explore the distinctions between acquirers, sub-acquirers, and payment gateways, elucidating their functions within the payment ecosystem.
 
 
