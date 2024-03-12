@@ -1,4 +1,4 @@
-# <h1>Risk Analyst Test - Cloudwalk</h1>
+# <h1>Risk Analyst Test</h1>
 
 ### Candidate: Vinícius S. Brandão
 
