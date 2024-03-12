@@ -2,7 +2,7 @@
 
 ### Candidate: Vinícius S. Brandão
 
-### This is a technical test for a job offering in Cloudwalk
+### This is a technical test for a job offering
 The discursive questions can be found on [this pdf](https://github.com/TeuPremium/Fraud_test/blob/main/Cloudwalk%20Risk%20Analyst%20I%20-%20Vin%C3%ADcius%20Brand%C3%A3o.pdf) and the code for the practical solution can be found on [this notebook](https://github.com/TeuPremium/Fraud_test/blob/main/index.ipynb)
 
 ## Tasks
